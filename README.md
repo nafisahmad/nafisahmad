@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **nafis.ahmad0087@gmail.com**
 
-//- 📄 Know about my experiences [https://nafisahmad.github.io/nafisres/#](https://nafisahmad.github.io/nafisres/#)
-
 - ⚡ Fun fact **I think i'm Funny.**
   <br>
 
