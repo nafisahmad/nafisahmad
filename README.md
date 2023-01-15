@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Web, Python Projects, Latest Tech News**
 
-- 📫 How to reach me **nafis.ahmad087@gmail.com**
+- 📫 How to reach me **nafis.ahmad0087@gmail.com**
 
-- 📄 Know about my experiences [https://nafisahmad.github.io/nafisres/#](https://nafisahmad.github.io/nafisres/#)
+//- 📄 Know about my experiences [https://nafisahmad.github.io/nafisres/#](https://nafisahmad.github.io/nafisres/#)
 
 - ⚡ Fun fact **I think i'm Funny.**
   <br>
