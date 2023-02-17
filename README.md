@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web, Python Projects, Latest Tech News**
 
-- 📫 How to reach me **nafis.ahmad0087@gmail.com**
+- 📫 Reach me at **nafis.ahmad0087@gmail.com**
 
 - ⚡ Fun fact **I think i'm Funny.**
   <br>
