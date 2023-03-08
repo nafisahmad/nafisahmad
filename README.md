@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nafis Ahmad</h1>
 
-<h3 align="center">Exploring Data Science | Full Stack Development | Kaggle Contributor  <br>  Content Writer at Medium | Computer Science Engineer | Learner</h3>
+<h3 align="center">Exploring Data Science | Full Stack Web Development | Kaggle Contributor  <br>  Content Writer at Medium | Computer Science Engineer | Learner</h3>
 <br>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif">
